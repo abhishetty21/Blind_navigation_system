@@ -15,5 +15,5 @@ This project is an assistive navigation system designed for visually impaired in
 - Audio feedback through system speaker/headphones
 - Modular design with separate scripts for each task
 
-## 🗂️ Project Structure
+
 
